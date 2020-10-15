@@ -1,0 +1,34 @@
+<?xml version="1.0"encoding="ISO-8859-1"?>
+<livre>
+<title>example</title>
+<section number="1">
+<title>section 1</title>
+<author>
+<prenom>mohamed ali</prenom>
+<nom>mohamed</nom>
+</author>
+<chapter number="1">
+<title>introduction</title>
+<paragraph>ok merci</paragraph>
+</chapter>
+<chapter number="2">
+<title>second</title>
+<paragraph>ok merci²</paragraph>
+</chapter>
+</section>
+<section number="2">
+<title>section 2</title>
+<author>
+<prenom>ali mohamed</prenom>
+<nom>mohamed</nom>
+</author>
+<chapter number="3">
+<title>third</title>
+<paragraph>ok merci²²</paragraph>
+</chapter>
+<chapter number="4">
+<title>four</title>
+<paragraph>ok merci²²²</paragraph>
+</chapter>
+</section>
+</livre>

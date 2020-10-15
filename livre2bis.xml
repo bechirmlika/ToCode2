@@ -1,0 +1,23 @@
+<?xml version="1.0"encoding="ISO-8859-1"?>
+<livre title="example">
+<section number="1"title="section 1">
+<author prenom="mohamed ali"nom="mohamed">
+</author>
+<chapter number="1"title="introduction">
+<paragraph>xml &lt; element id=&quot;10&quot; &gt;&gt; &lt;/element &gt;</paragraph>
+</chapter>
+<chapter number="2"title="second">
+<paragraph><![CDATA[xml <element id="10">></element>]]></paragraph>
+</chapter>
+</section>
+<section number="2"title="section 2">
+<author prenom="ahmed"nom="mohamed">
+</author>
+<chapter number="3"title="third">
+<paragraph>ok merci²²</paragraph>
+</chapter>
+<chapter number="4"title="four">
+<paragraph>ok merci²²²</paragraph>
+</chapter>
+</section>
+</livre>

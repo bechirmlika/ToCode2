@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Contact">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Name" type="xs:string" />
+<xs:element name="FirstName" type="xs:string" />
+<xs:element name="Telephone" type="xs:integer"use="optional" />
+<xs:element name="Email" type="xs:string" />
+
+</xs:sequence>
+<xs:attribute name="titre" type="xs:ID" use="required" /> 
+<xs:attribute name="techno" type="xs:IDREFS" use="optional" /> 
+</xs:complexType>
+</xs:element>
+</xs:schema>
